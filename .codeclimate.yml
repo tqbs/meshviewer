@@ -1,0 +1,4 @@
+engines:
+  eslint:
+    enabled: false
+    channel: "eslint-3"
