@@ -1,0 +1,89 @@
+{
+  "node": {
+    "all": "Tout les noeuds",
+    "nodes": "noeuds",
+    "uptime": "Laufzeit",
+    "links": "Connections",
+    "clients": "Clients",
+    "distance": "Distance",
+    "tq": "TQ",
+    "lastOnline": "En ligne, dernier message %{time} (%{date})",
+    "lastOffline": "Hors ligne, dernier message %{time} (%{date})",
+    "activated": "activé (%{branch})",
+    "deactivated": "desactivé",
+    "status": "Status",
+    "firmware": "Version de Firmware",
+    "hardware": "Version matérielle",
+    "visible": "Visible sur la carte",
+    "update": "Mise à jour automatique",
+    "site": "Site",
+    "gateway": "Passerelle",
+    "coordinates": "Coordonées",
+    "contact": "Contact",
+    "primaryMac": "MAC Primaire",
+    "id": "ID du noeud",
+    "firstSeen": "Première fois vu",
+    "systemLoad": "Moyenne de charge",
+    "ram": "Utilistation de la ram",
+    "ipAddresses": "Addresses IP",
+    "selectedGateway": "Passerelle choisie",
+    "link": "Conneciton |||| Connections",
+    "node": "Noeuds",
+    "new": "Nouveau noeuds",
+    "missing": "Noeuds Disparus"
+  },
+  "location": {
+    "location": "Position",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "copy": "Copier"
+  },
+  "sidebar": {
+    "nodeFilter": "Filtre de noeuds",
+    "nodes": "%{total} noeuds, dont %{online} noeuds en ligne",
+    "clients": "avec %{smart_count} Utilisateur |||| avec %{smart_count} Utilisateurs",
+    "gateway": "sur %{smart_count} passerelle |||| sur %{smart_count} passerelle",
+    "lastUpdate": "Dernière actualisation",
+    "nodeNew": "Le noeud est nouveau",
+    "nodeOnline": "Le noeud est en ligne",
+    "nodeOffline": "Le noeud est hors-ligne",
+    "aboutInfo": "<h2>À propos de Meshviewer</h2><p>Avec un double clic vous pouvez zommer et avec Maj+doublle clic vous pouvez dezommer.</p>",
+    "actual": "Actuellment",
+    "stats": "Statisitques",
+    "about": "Apropos de"
+  },
+  "button": {
+    "switchView": "Changer de vue",
+    "location": "Choisir les coordonées",
+    "tracking": "Lokalisation"
+  },
+  "momentjs": {
+    "calendar": {
+      "sameDay": "[aujourd'hui à] LT [heures]",
+      "nextDay": "[demain à] LT [heures]",
+      "nextWeek": "dddd [à] LT [heures]",
+      "lastDay": "[Hier à] LT [heures]",
+      "lastWeek": "[Dernier] dddd [à] LT [heures]",
+      "sameElse": "L"
+    },
+    "relativeTime": {
+      "future": "Dans %s",
+      "past": "il y a %s",
+      "s": "quelques secondes",
+      "m": "une minute",
+      "mm": "%d minutes",
+      "h": "une heure",
+      "hh": "%d heures",
+      "d": "un jour",
+      "dd": "%d jours",
+      "M": "un mois",
+      "MM": "%d mois",
+      "y": "un an",
+      "yy": "%d années"
+    }
+  },
+  "yes": "oui",
+  "no": "non",
+  "unknown": "inconnu",
+  "none": "aucun"
+}
