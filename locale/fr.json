@@ -1,7 +1,7 @@
 {
   "node": {
     "all": "Tout les noeuds",
-    "nodes": "noeuds",
+    "nodes": "Noeuds",
     "uptime": "Laufzeit",
     "links": "Connections",
     "clients": "Clients",
